@@ -13,7 +13,7 @@ const Banner = () => {
             </div>
             
             <div>
-                <img className="h-[400px]" src="../../../public/images/user.png" alt="" />
+                <img className="h-[400px]" src="../../../images/user.png" alt="" />
             </div>
         </div>
     );
